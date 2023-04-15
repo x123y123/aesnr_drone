@@ -1,0 +1,6 @@
+[submodule "tensorrt_demos"]
+	path = tensorrt_demos
+	url = git@github.com:x123y123/tensorrt_demos.git
+[submodule "jetson-inference"]
+	path = jetson-inference
+	url = git@github.com:dusty-nv/jetson-inference.git
